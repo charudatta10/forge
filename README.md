@@ -1,6 +1,10 @@
 # Forge
 
-A decentralized Fossil forge with built-in P2P networking and gossip protocols.
+![Version](https://img.shields.io/github/v/release/charudatta10/forge)
+
+## What is this?
+
+A decentralized Fossil forge with built-in P2P networking and gossip protocols, written in pure Lua.
 
 ## Features
 
@@ -20,7 +24,7 @@ A decentralized Fossil forge with built-in P2P networking and gossip protocols.
 Clone the repository and ensure `forge.lua` and `forge-net.lua` are in the same directory.
 
 ```bash
-git clone https://github.com/youruser/forge.git
+git clone https://github.com/charudatta10/forge.git
 cd forge
 ```
 
