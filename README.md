@@ -1,5 +1,10 @@
 # Forge
 
+<p align="center">
+  <img src="assets/cover.png" alt="forge" width="800"/>
+</p>
+
+
 ![Version](https://img.shields.io/github/v/release/charudatta10/forge)
 
 ## What is this?
